@@ -18,7 +18,6 @@ setup(
     author='Zhe Sun, Jaap Langemeijer',
     author_email='zhe.sun@nike.com',
     install_requires=[
-        "pandas>=1.2.0",
         "workalendar>=15.0.1",
         "matplotlib>=3.3.3"
     ],
