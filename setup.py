@@ -19,7 +19,7 @@ setup(
     author_email='zhe.sun@nike.com',
     install_requires=[
         "workalendar>=15.0.1",
-        "matplotlib>=3.3.3"
+        "matplotlib==3.3.3"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
